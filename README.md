@@ -3,7 +3,7 @@ This repository contains the simulation code to replicate the results of the exp
 
 To replicate the experimental results of the paper download and import in your JAVA IDE the relative project:
 
-1. ITS.zip - Intelligent Transport System case study
+1. ITS.zip - Intelligent Transportation System case study
 2. SPG.zip - Smart Power Grid case study
 3. CC.zip - Cloud Computing case study
 
