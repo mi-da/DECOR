@@ -1,6 +1,12 @@
 # Model-based Engineering of Decentralized Control in Self-Adaptive Systems
 This repository contains the simulation code to replicate the results of the experimantation of the paper "Model-based Engineering of Decentralized Control in Self-Adaptive Systems" currently under revision on JSS - Special Issue on Software-Intensive Autonomous Systems: methods and applications.
 
+To replicate the experimental results of the paper download and import in your JAVA IDE the relative project:
+
+1. ITS.zip - Intelligent Transport System case study
+2. SPG.zip - Smart Power Grid case study
+3. CC.zip - Cloud Computing case study
+
 # What is DECAS?
 DECAS (DECAS: **DE**centralized **C**ontrol for **A**daptive **S**ystems) is a Model-Driven Engineering framework supporting the development and evaluation of decentralized self-adaptive systems. DECAS is implemented as an Eclipse plugin, and is based on the Eclipse Modeling Framework and the Graphical Modeling Project.
 
