@@ -23,6 +23,6 @@ We are working hard to realease the first version of DECAS Eclipse Plugin. At th
    * se.lnu.decentralizedPattern.edit
 5. Launch the runtime workspace: se.lnu.decentralizedPattern.diagram -> Run As -> Eclipse Application
 6. In the runtime workspace created after launching the environment import the following project
-   * CyPhEF
+   * DECAS
 7. Inside the imported project you can already find the cyberModel and the physicalModel of the video example
 8. You can test your installation by running the Simulate class
