@@ -20,7 +20,11 @@ We are working hard to realease the first version of DECAS Eclipse Plugin. At th
 
 1. Before downloading the tool install the following software inside Eclipse (Help -> Install new Software)
    * Eclipse Modeling Framework (EMF)
-   * Graphical Modeling Project (GMP)
+   * Graphical Modeling Project (GMP) - SDK v1.12.2
+   * Graphical Modeling Project (GMP) - Tooling
+   * OCL Classic SDK
+   * OCL Examples and Editors
+   alternatively, you can download all these tools by importing the "eclipse_DECAS_installation.p2f" installation file in Eclipse (File -> Import -> Install -> Install Software    Items From File). Install all the listed elements, switch on the option "contact all update sites during install to find required software" and switch off the option "install    latest version of selected software".
 2. Download the sources of the tool from the top of this page (tar.gz or .zip)
 3. Extract the files in a desired location
 4. Import the following projects as existing projects into the workspace
