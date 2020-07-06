@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='12'>
+    <iu id='org.eclipse.emf.ecoretools.design.feature.group' name='Ecore Diagram Editor' version='3.3.2.201909230743'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+        <repository location='http://download.eclipse.org/releases/2019-12'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.emf.ecoretools.sdk.feature.group' name='Ecore Diagram Editor (SDK)' version='3.3.2.201909230743'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+        <repository location='http://download.eclipse.org/releases/2019-12'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.emf.sdk.feature.group' name='EMF - Eclipse Modeling Framework SDK' version='2.22.0.v20200519-1135'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.emf.parsley.sdk.feature.group' name='EMF Parsley SDK' version='1.10.0.v20200113-1400'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.emf.parsley.sdk.source.feature.group' name='EMF Parsley SDK Developer Resources' version='1.10.0.v20200113-1400'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.emf.emfstore.ecore.feature.feature.group' name='EMFStore Ecore' version='1.8.1.v20161125-1451'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/neon'/>
+        <repository location='http://www.eclipse.org/modeling/amalgam/downloads/package/modeling/neon/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.emf.emfstore.sdk.feature.feature.group' name='EMFStore SDK' version='1.9.0.v20170530-0703'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+        <repository location='http://download.eclipse.org/releases/2019-12'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.gmf.runtime.sdk.feature.group' name='Graphical Modeling Framework (GMF) Runtime SDK' version='1.12.2.201912020813'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+        <repository location='http://download.eclipse.org/releases/2019-12'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.gmf.tooling.feature.group' name='Graphical Modeling Framework (GMF) Tooling' version='3.3.1.201509291144'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/neon'/>
+        <repository location='http://www.eclipse.org/modeling/amalgam/downloads/package/modeling/neon/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.gmf.tooling.runtime.feature.group' name='Graphical Modeling Framework (GMF) Tooling - Runtime Extensions' version='3.3.1.201509291144'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/neon'/>
+        <repository location='http://www.eclipse.org/modeling/amalgam/downloads/package/modeling/neon/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.ocl.all.sdk.feature.group' name='OCL Classic SDK: Ecore/UML Parsers,Evaluator,Edit' version='5.11.0.v20200309-0848'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.ocl.examples.feature.group' name='OCL Examples and Editors SDK' version='6.11.0.v20200309-0848'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/latest'/>
+        <repository location='http://download.eclipse.org/releases/2020-03'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
