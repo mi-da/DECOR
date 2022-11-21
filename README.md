@@ -12,10 +12,7 @@ DECOR (**DE**centralized **CO**ntrol **R**easoning framework) is a Model-Driven 
 
 Given a managed system to control, DECOR allows engineers to design a control architecture by specifying the set of MAPE-K components and their interactions or, as an alternative, by leveraging the ready-to-use control patterns.
 
-[![alt text][1]
-
-[1]:https://ibb.co/rGKRfs7
-
+<a href="https://ibb.co/rGKRfs7"><img src="https://i.ibb.co/Gvf43Tx/tool.jpg" alt="tool" border="0" /></a>
 
 
 # Why DECOR?
