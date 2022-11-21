@@ -14,7 +14,7 @@ Given a managed system to control, DECOR allows engineers to design a control ar
 
 [![alt text][1]
 
-[1]: https://ibb.co/qBjZgCZ
+[1]:https://ibb.co/rGKRfs7
 
 
 
