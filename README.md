@@ -18,12 +18,8 @@ Rapresentation of patterns in the literature:
 
 
 <div class="nav3" style="height:705px;">
-  <div class="column">
     <img src="https://i.ibb.co/M535nwZ/master-slave-1.jpg" style="width:50%">
-  </div>
-  <div class="column">
     <img src="https://i.ibb.co/qC0fxxC/info-sharing-1.jpg" style="width:35%">
-  </div>
 </div>
 
 How a pattern is designed in the tool:
