@@ -12,9 +12,11 @@ DECOR (**DE**centralized **CO**ntrol **R**easoning framework) is a Model-Driven 
 
 Given a managed system to control, DECOR allows engineers to design a control architecture by specifying the set of MAPE-K components and their interactions or, as an alternative, by leveraging the ready-to-use control patterns.
 
+## Screenshot for the Intelligent Transportation system case study
+
 <a href="https://ibb.co/rGKRfs7"><img src="https://i.ibb.co/Gvf43Tx/tool.jpg" class="center" alt="tool" border="0" /></a>
 
-<a href="https://gifyu.com/image/ShT8o"><img src="https://s4.gifyu.com/images/traffic-example.gif" alt="traffic-example.gif" border="0" /></a>
+[![traffic-example.gif](https://s4.gifyu.com/images/traffic-example.gif)](https://gifyu.com/image/ShT8o)
 
 # Why DECOR?
 Designing decentralized control architectures in self-adaptive systems constitutes a design challenge. In fact, in large and distributed systems software engineers are faced with the problem of how to effectively design self-adaptive control schemes that timely performs (i.e., timeliness) the correct adaptations (i.e., correctness), while guaranteeing the managed systems behaviors (i.e., assurances). Since complex, dynamic and adaptive systems are characterized by multiple design dimensions, finding the right solution for the problem might be extremely challenging, as with increase system complexity the solution space might explode.
