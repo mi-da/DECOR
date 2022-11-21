@@ -12,9 +12,17 @@ DECOR (**DE**centralized **CO**ntrol **R**easoning framework) is a Model-Driven 
 
 Given a managed system to control, DECOR allows engineers to design a control architecture by specifying the set of MAPE-K components and their interactions or, as an alternative, by leveraging the ready-to-use control patterns.
 
-## Screenshot for the Intelligent Transportation system case study
+## Screenshots from the Intelligent Transportation system case study
+
+Rapresentation of patterns in the literature:
+
+<a href="https://ibb.co/Lh2hSjY"><img src="https://i.ibb.co/M535nwZ/master-slave-1.jpg" alt="master-slave-1" border="0" /></a>
+
+How a pattern is designed in the tool:
 
 <a href="https://ibb.co/rGKRfs7"><img src="https://i.ibb.co/Gvf43Tx/tool.jpg" class="center" alt="tool" border="0" /></a>
+
+Pattern in action during co-simulation:
 
 [![traffic-example.gif](https://s4.gifyu.com/images/traffic-example.gif)](https://gifyu.com/image/ShT8o)
 
