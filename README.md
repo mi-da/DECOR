@@ -18,10 +18,10 @@ Rapresentation of patterns in the literature:
 
 <div class="row">
   <div class="column">
-    <img src="https://i.ibb.co/M535nwZ/master-slave-1.jpg" style="width:48%">
+    <img src="https://i.ibb.co/M535nwZ/master-slave-1.jpg" style="width:80%">
   </div>
   <div class="column">
-    <img src="https://i.ibb.co/qC0fxxC/info-sharing-1.jpg" style="width:48%">
+    <img src="https://i.ibb.co/qC0fxxC/info-sharing-1.jpg" style="width:40%">
   </div>
 </div>
 
