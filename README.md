@@ -16,7 +16,7 @@ Given a managed system to control, DECOR allows engineers to design a control ar
 
 Rapresentation of patterns in the literature:
 
-<a href="https://ibb.co/Lh2hSjY"><img src="https://i.ibb.co/M535nwZ/master-slave-1.jpg" alt="master-slave-1" border="0" /></a>
+<a href="https://ibb.co/Lh2hSjY"><img src="https://i.ibb.co/M535nwZ/master-slave-1.jpg" alt="master-slave-1" border="0" /><img src="https://i.ibb.co/qC0fxxC/info-sharing-1.jpg" alt="info-sharing-1" border="0" /></a>
 
 <a href="https://ibb.co/G9sLFF9"><img src="https://i.ibb.co/qC0fxxC/info-sharing-1.jpg" alt="info-sharing-1" border="0" /></a>
 
