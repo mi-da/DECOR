@@ -45,10 +45,10 @@ We are working hard to realease the first version of DECOR Eclipse Plugin. At th
    * OCL Classic SDK
    * OCL Examples and Editors
    
-   Alternatively, you can download all these tools by importing the "eclipse_DECOR_CAME_installation.p2f" installation file in Eclipse (File -> Import -> Install -> Install
+   Alternatively, you can download all these tools by importing the "eclipse_DECOR_CME_installation.p2f" installation file in Eclipse (File -> Import -> Install -> Install
    Software Items From File). Install all the listed elements, switch on the option "contact all update sites during install to find required software" and switch off the option
    "install latest version of selected software".
-2. Download the sources of the tool from the top of this page (mi-da-DECOR-CAME.zip)
+2. Download the sources of the tool from the top of this page (mi-da-DECOR-CME.zip)
 3. Extract the files in a desired location
 4. Import the following projects as existing projects into the workspace
    * se.lnu.decentralizedPattern
